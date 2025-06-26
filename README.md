@@ -5,6 +5,6 @@ After run the PDF files
 AT last run the project 
 
 
-docker compose up -d
-npm run process-pdfs -- /home/muhammad-noman/Downloads/data.pdf
-npm run start
+1. docker compose up -d
+2. npm run process-pdfs -- /home/muhammad-noman/Downloads/data.pdf
+3. npm run start
